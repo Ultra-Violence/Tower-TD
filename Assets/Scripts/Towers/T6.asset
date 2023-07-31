@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44df10776aba2fc40879f7d033cb9e5f, type: 3}
+  m_Name: T6
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5296570529034466740, guid: 41f1f8e759ba95e42b3f23a02c788942, type: 3}
+  prefabUp: {fileID: 6170971633007048795, guid: 65255749b92d4ec4cb4a1bd5c9cdb1d4, type: 3}
+  sprite: {fileID: 21300000, guid: c189210cac3f6734db68c61646079cd0, type: 3}
+  rangeAttack: 30
+  speedAttack: 0
+  cost: 500

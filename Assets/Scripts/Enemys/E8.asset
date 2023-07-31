@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcb6b459e9813274f80fa3cc44c39e46, type: 3}
+  m_Name: E8
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7910886626019005985, guid: b54c95cb7a564794f92cd7e5df603e8e, type: 3}
+  speed: 5
+  health: 40
+  points: 1
+  gold: 2
